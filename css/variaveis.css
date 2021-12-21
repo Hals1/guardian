@@ -1,0 +1,16 @@
+:root {
+	--cinza: #696969;
+	--azul-claro: #87CEEB;
+	--roxo: #483D8B;
+	--ciano-dark: #008B8B;
+
+	--font-titulo: 'Crimson Text', serif;
+	--font-sub-central: 'Merriweather', serif;
+	--font-nav: 'Poppins', sans-serif;
+	--font-sub: 'Montserrat', sans-serif;
+	--font-texto: 'Open Sans', sans-serif;
+
+	--cor-bg-btn: #292f97db;
+	--cor-hover-btn: #008B8B;
+
+};
